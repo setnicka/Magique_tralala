@@ -20,3 +20,5 @@ There are several types of network devices, each of them has unique 16 bit ID, s
   - That is 5000 hours (208 days) doing nothing,
   - 50 hours (2 days) displaying stuff and
   - 20 hours constantly transmitting and displaying
+
+Test edit to show how Git works.... bla bla bla
